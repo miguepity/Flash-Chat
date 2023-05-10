@@ -10,7 +10,7 @@ A modern messaging app where users can sign up and log in to chat.
 
 ## Screenshots
 
-![Home](images/home.png)
+<img src="images/home.png" alt="Home" height=90>
 
 ![Registration](images/registration.png)
 ![Login](images/login.png)
